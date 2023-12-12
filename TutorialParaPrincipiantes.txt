@@ -1,0 +1,15 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="fondotrucos.css">
+</head><h1> <img src="./imagenesTexto/TituloCuatro.png"width="60%" alt=""></h1>
+
+<body>
+<h1> <img src= "trucodeskate.jpg" width="40%"alt=""></h1>
+
+<a href="tutoriaOLLIE.html"><img src="./imagenesTexto/tutoOLLIE.png" width="40%" alt=""></a>
+
+
+
+
+</body>
+</html>
